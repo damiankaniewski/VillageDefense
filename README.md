@@ -1,5 +1,5 @@
 # Village Defense
-Village Defense is a 3D low-poly game developed in Unity using C# scripting language and Rider IDE. The game is still a work in progress.
+Village Defense is a 3D low-poly game developed in Unity using C# scripting language and Rider IDE. The game is still a **work in progress**.
 
 ## Gameplay
 The game is about defending a village against waves of enemies. The player must strategically place defensive structures and units to prevent the enemies from reaching the village. The game offers the ability to upgrade equipment and use elixirs to boost the player's abilities. There are also boss battles, where the player must use their skills and equipment to defeat powerful enemies.
